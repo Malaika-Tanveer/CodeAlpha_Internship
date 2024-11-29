@@ -1,0 +1,40 @@
+.navigation_menu
+{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.navigation_menu li{
+    margin: 0px 20px;
+}
+.navigation_menu li a 
+{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    font-size: large;
+}
+.MuiTypography-root
+{
+    font-family: "lora";
+    font-weight:bold
+}
+.mobile-navigation
+{
+
+    list-style:none ;
+}
+.mobile-navigation li{
+    margin-top: 20px;
+}
+.mobile-navigation a{
+    text-decoration: none;
+}
+.active
+{
+    color:'yellow'
+    ;
+    font-weight: bold ;
+}
